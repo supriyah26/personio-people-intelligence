@@ -1,0 +1,102 @@
+[
+  {
+    "employee_index": 49,
+    "risk_score": 0.7,
+    "top_factors": [
+      "OverTime",
+      "MonthlyIncome",
+      "JobLevel"
+    ],
+    "insight": "This employee is at a high risk of attrition primarily because they work overtime, which is the strongest predictor of turnover and often leads to burnout and dissatisfaction. Compounding this, their low monthly income of $1,859 and entry-level job position (Level 1) suggest they may feel undercompensated and see limited career growth, making them especially vulnerable to leaving for better-paying opportunities elsewhere."
+  },
+  {
+    "employee_index": 44,
+    "risk_score": 0.65,
+    "top_factors": [
+      "OverTime",
+      "TotalWorkingYears",
+      "JobLevel"
+    ],
+    "insight": "This employee faces a significant attrition risk primarily because they work overtime, which is the strongest predictor of turnover \u2014 combined with having only 1 year of total working experience and being at the lowest job level, this profile suggests a junior employee who may be feeling overworked and undervalued early in their career. HR should consider reducing their overtime burden, providing a clear career development path with advancement opportunities, and offering mentorship to help retain this employee before burnout or a better opportunity drives them to leave."
+  },
+  {
+    "employee_index": 125,
+    "risk_score": 0.58,
+    "top_factors": [
+      "Age",
+      "TotalWorkingYears",
+      "StockOptionLevel"
+    ],
+    "insight": "**HR Insight:**\n\nThis 19-year-old employee has only 1 year of total working experience, making them significantly more likely to leave as younger, early-career employees often lack strong organizational ties and are actively exploring better opportunities elsewhere. Additionally, having a Stock Option Level of 0 means they have no equity-based incentive to stay with the company, removing a key financial retention lever that could otherwise encourage long-term commitment."
+  },
+  {
+    "employee_index": 61,
+    "risk_score": 0.57,
+    "top_factors": [
+      "MonthlyIncome",
+      "Age",
+      "TotalWorkingYears"
+    ],
+    "insight": "This 21-year-old employee earning just $1,416 per month with only 1 year of total working experience is at significant attrition risk because their low compensation combined with their early career stage makes them highly likely to seek better-paying opportunities elsewhere. Young employees with minimal work experience and below-average income often feel undervalued and have fewer ties to the organization, making it easy for them to leave for even modest pay increases or more promising career development prospects."
+  },
+  {
+    "employee_index": 131,
+    "risk_score": 0.56,
+    "top_factors": [
+      "TotalWorkingYears",
+      "Age",
+      "MonthlyIncome"
+    ],
+    "insight": "This 18-year-old employee has zero total working years and earns just $1,514 monthly, placing them squarely in the early-career demographic that is most vulnerable to attrition due to limited organizational attachment, low compensation, and abundant external opportunities. Their combination of youth, inexperience, and below-average pay creates a high flight risk, as employees at this stage are still exploring career options and may leave quickly if they don't see clear growth paths or competitive compensation."
+  },
+  {
+    "employee_index": 114,
+    "risk_score": 0.54,
+    "top_factors": [
+      "OverTime",
+      "MonthlyIncome",
+      "TotalWorkingYears"
+    ],
+    "insight": "This employee faces a significant attrition risk primarily because they work overtime, earn a relatively low monthly income of $1,702, and have only one year of total working experience\u2014a combination that often leads to burnout and feeling undervalued. HR should consider adjusting their compensation to be more competitive, evaluating their overtime workload to prevent exhaustion, and providing clear career development opportunities to retain this early-career employee before they seek better prospects elsewhere."
+  },
+  {
+    "employee_index": 225,
+    "risk_score": 0.52,
+    "top_factors": [
+      "OverTime",
+      "MonthlyIncome",
+      "JobLevel"
+    ],
+    "insight": "This employee faces a heightened attrition risk primarily because they work overtime while earning a low monthly income of $2,235 at the entry-level job tier (Level 1), creating a frustrating imbalance between effort and compensation. The combination of being overworked and underpaid is a well-known driver of burnout and voluntary turnover, suggesting HR should consider a compensation review or workload adjustment to retain this employee."
+  },
+  {
+    "employee_index": 107,
+    "risk_score": 0.5,
+    "top_factors": [
+      "YearsAtCompany",
+      "StockOptionLevel",
+      "NumCompaniesWorked"
+    ],
+    "insight": "This employee is a brand-new hire with zero tenure at the company and no stock options to incentivize retention, which means they have little financial or emotional investment keeping them here. Their history of working at 8 different companies signals a pattern of frequent job-hopping, suggesting they may be quick to leave if a better opportunity arises\u2014especially without equity-based incentives to encourage long-term commitment."
+  },
+  {
+    "employee_index": 5,
+    "risk_score": 0.5,
+    "top_factors": [
+      "OverTime",
+      "JobLevel",
+      "JobRole"
+    ],
+    "insight": "This employee faces a moderate attrition risk primarily because they work overtime and are at the lowest job level (Level 1), a combination that often leads to burnout and feelings of being undervalued, especially when extra effort isn't matched by career advancement. Additionally, their role as a Sales Representative (JobRole 8) is typically associated with higher turnover due to demanding targets and high-pressure environments, making them a strong candidate for proactive retention efforts such as a promotion pathway or workload rebalancing."
+  },
+  {
+    "employee_index": 140,
+    "risk_score": 0.5,
+    "top_factors": [
+      "OverTime",
+      "MonthlyIncome",
+      "JobLevel"
+    ],
+    "insight": "This employee faces a significant attrition risk primarily because they work overtime while earning a low monthly income of just $2,154 at the entry-level (Job Level 1), creating a frustrating imbalance between effort and compensation. The combination of being overworked and underpaid is a well-known driver of burnout and disengagement, making this employee likely to seek better-paying opportunities elsewhere unless their workload is reduced or their compensation is improved."
+  }
+]
